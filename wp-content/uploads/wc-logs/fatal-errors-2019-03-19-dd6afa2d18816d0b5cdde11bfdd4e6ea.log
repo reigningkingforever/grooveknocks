@@ -1,0 +1,370 @@
+2019-03-19T20:09:03+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T20:15:24+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T20:22:19+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T20:27:12+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T20:36:44+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T20:43:44+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T20:47:20+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T20:51:10+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T20:57:39+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:03:06+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:11:47+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:18:31+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:21:31+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:28:13+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:33:16+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:39:37+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:46:25+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T21:53:47+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:00:38+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:03:40+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:07:19+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:15:01+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:21:41+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:27:13+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:36:10+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:42:52+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:48:51+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T22:57:05+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:01:44+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:09:19+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:12:34+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:18:05+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:24:24+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:31:01+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:38:57+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:45:32+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+
+2019-03-19T23:52:09+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+

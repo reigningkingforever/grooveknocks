@@ -1,0 +1,10 @@
+2019-03-15T20:03:46+00:00 CRITICAL Uncaught Error: Call to undefined function CASE27\Integrations\WPJM\add_settings_field() in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php:622
+Stack trace:
+#0 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(286): CASE27\Integrations\WPJM\ListingManager->setup_permalink_settings(Object(WP_Screen))
+#1 /home/encyclov/grooveknocks.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/encyclov/grooveknocks.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/encyclov/grooveknocks.com/wp-admin/includes/class-wp-screen.php(386): do_action('current_screen', Object(WP_Screen))
+#4 /home/encyclov/grooveknocks.com/wp-admin/includes/screen.php(232): WP_Screen->set_current_screen()
+#5 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-sender.php(154): set_current_screen('sync')
+#6 /home/encyclov/grooveknocks.com/wp-content/plugins/jetpack/sync/class.jetpack-sync-s in /home/encyclov/grooveknocks.com/wp-content/themes/my-listing/includes/integrations/wp-job-manager/wp-job-manager.php on line 622
+

@@ -1,0 +1,84 @@
+#wcfmmp-store .banner_text h2, #wcfmmp-store .video_text h2, #wcfmmp-store .slider_text h2{ 
+	color: #ffffff;
+}
+
+#wcfmmp-store .banner_text h2:after, .banner_text h2:before{ 
+	background: #ffffff;
+}
+
+#wcfmmp-store #wcfm_store_header{ 
+	background: #2f2f2f;
+}
+
+#wcfmmp-store .social_area{ 
+	background: #212121;
+}
+
+#wcfmmp-store .address span, #wcfmmp-store .address a, #wcfmmp-store .address h2, #wcfmmp-store .bd_icon_box span{ 
+	color: #ffffff;
+}
+
+#wcfmmp-store .social_area ul li{ 
+	background: #ffffff;
+}
+
+#wcfmmp-store .address i, #wcfmmp-store .bd_icon i, #wcfmmp-store .social_area ul li a i{ 
+	color: #979595;
+}
+
+#wcfmmp-store .left_sidebar{ 
+	background: #efefef;
+}
+
+#wcfmmp-store .sidebar_heading h4, #wcfmmp-store .reviews_heading, #wcfmmp-store h2, #wcfmmp-store .user_name, .store-data h2 a{ 
+	color: #525252;
+}
+
+.store-data-container .store-phone i{ 
+	background: #525252;
+}
+
+#wcfmmp-store .categories_list ul li a, .store-data-container .store-address, .store-data-container .store-phone{ 
+	color: #9f9e9e;
+}
+
+#wcfmmp-store .tab_area .tab_links li a{ 
+	color: #999999;
+}
+
+#wcfmmp-store .tab_area .tab_links li:hover a, #wcfmmp-store .tab_area .tab_links li.active a{ 
+	color: #00798b;
+}
+
+#wcfmmp-store .tab_area .tab_links li:after{ 
+	background: #00798b;
+}
+
+#wcfmmp-store .add_review button, #wcfmmp-store .user_rated, #wcfmmp-stores-wrap a.wcfmmp-visit-store{ 
+	background: #0aa3e3;
+}
+
+#wcfmmp-store .reviews_heading a, #wcfmmp-store .reviews_count a{ 
+	color: #0aa3e3;
+}
+
+#wcfmmp-stores-wrap ul.wcfmmp-store-wrap li .store-content{ 
+	border-bottom-color: #0aa3e3;
+}
+
+#wcfmmp-store .add_review button, #wcfmmp-store .user_rated, #wcfmmp-stores-wrap a.wcfmmp-visit-store{ 
+	color: #ffffff;
+}
+
+#wcfmmp-store .add_review button:hover, #wcfmmp-store .bd_icon_box .follow:hover, #wcfmmp-stores-wrap a.wcfmmp-visit-store:hover{ 
+	background: #000000;
+}
+
+#wcfmmp-store .add_review button:hover, #wcfmmp-store .bd_icon_box .follow:hover, #wcfmmp-stores-wrap a.wcfmmp-visit-store:hover{ 
+	color: #ffffff;
+}
+
+#wcfmmp-store .rating_box i.selected, #wcfmmp-store .rating-stars ul > li.star.selected > i.fa, .store-data-container .star-rating span::before{ 
+	color: #FF912C;
+}
+

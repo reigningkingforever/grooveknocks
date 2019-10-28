@@ -1,0 +1,123 @@
+{
+    "key": "group_5994ff3ff1af3",
+    "title": "Listing Promotions",
+    "fields": [
+        {
+            "key": "field_5b1ae72ddf548",
+            "label": "Promotions Version",
+            "name": "promotions_version",
+            "type": "select",
+            "instructions": "Allow users to buy promotion packages and apply to their listings. Promoted listings are given priority in search results.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "2.0": "v2.0 (Recommended)",
+                "1.0": "v1.0 (Deprecated)",
+                "none": "Disable Promotions"
+            },
+            "default_value": [
+                "2.0"
+            ],
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 1,
+            "ajax": 0,
+            "return_format": "value",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5994ffc888b10",
+            "label": "Promotion Packages",
+            "name": "promotions_packages",
+            "type": "repeater",
+            "instructions": "Set the pricing and time limits for your promotional keys.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5b1ae72ddf548",
+                        "operator": "==",
+                        "value": "1.0"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "collapsed": "",
+            "min": 0,
+            "max": 0,
+            "layout": "table",
+            "button_label": "Add Package",
+            "sub_fields": [
+                {
+                    "key": "field_5995001a88b11",
+                    "label": "Days",
+                    "name": "days",
+                    "type": "number",
+                    "instructions": "Enter the amount of promotion days this package provides.",
+                    "required": 1,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": "",
+                    "prepend": "",
+                    "append": "days",
+                    "min": 1,
+                    "max": "",
+                    "step": ""
+                },
+                {
+                    "key": "field_5995006688b12",
+                    "label": "Price",
+                    "name": "regular_price",
+                    "type": "number",
+                    "instructions": "Enter the price for this package. Type just the numerical, which will then be converted to the currency set in your WooCommerce settings.",
+                    "required": 1,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": "",
+                    "prepend": "",
+                    "append": "",
+                    "min": 0,
+                    "max": "",
+                    "step": ""
+                }
+            ]
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "theme-integration-settings"
+            }
+        ]
+    ],
+    "menu_order": 10,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1528533794
+}

@@ -1,0 +1,27 @@
+name,listing type
+Dancers,Artiste
+Drama groups,Artiste
+Musicians,Artiste
+Comedians,Artiste
+MC,Artiste
+DJ,Artiste
+Clown,Artiste
+Auditions,Events
+Competitions,Events
+Exhibitions,Events
+Campings,Events
+Tours,Events
+Shows,Events
+Concerts,Events
+Cinematographer,Services
+Venues,Services
+Caterers,Services
+Guiders,Services
+Accessory Renters,Services
+Bouncers,Services
+Users,Services
+Clubs,Places
+Bars,Places
+Restaurants,Places
+Recreational centers,Places
+Natural Resorts,Places
